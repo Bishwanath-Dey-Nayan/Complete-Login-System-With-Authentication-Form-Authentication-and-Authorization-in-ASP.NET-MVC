@@ -1,0 +1,373 @@
+E:\company\Company1111\Company1111\bin\Company1111.dll.config
+E:\company\Company1111\Company1111\bin\Company1111.dll
+E:\company\Company1111\Company1111\bin\Company1111.pdb
+E:\company\Company1111\Company1111\bin\roslyn\csc.exe
+E:\company\Company1111\Company1111\bin\roslyn\csc.exe.config
+E:\company\Company1111\Company1111\bin\roslyn\csc.rsp
+E:\company\Company1111\Company1111\bin\roslyn\csi.exe
+E:\company\Company1111\Company1111\bin\roslyn\csi.exe.config
+E:\company\Company1111\Company1111\bin\roslyn\csi.rsp
+E:\company\Company1111\Company1111\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\company\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\company\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\company\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\company\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\company\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\company\Company1111\Company1111\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\company\Company1111\Company1111\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\company\Company1111\Company1111\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\company\Company1111\Company1111\bin\roslyn\Microsoft.Managed.Core.targets
+E:\company\Company1111\Company1111\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\company\Company1111\Company1111\bin\roslyn\System.AppContext.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.Collections.Immutable.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.Console.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.IO.Compression.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.IO.FileSystem.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.IO.Pipes.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.Reflection.Metadata.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.Security.AccessControl.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.Security.Claims.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.Security.Principal.Windows.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.ValueTuple.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.Xml.XmlDocument.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.Xml.XPath.dll
+E:\company\Company1111\Company1111\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\company\Company1111\Company1111\bin\roslyn\vbc.exe
+E:\company\Company1111\Company1111\bin\roslyn\vbc.exe.config
+E:\company\Company1111\Company1111\bin\roslyn\vbc.rsp
+E:\company\Company1111\Company1111\bin\roslyn\VBCSCompiler.exe
+E:\company\Company1111\Company1111\bin\roslyn\VBCSCompiler.exe.config
+E:\company\Company1111\Company1111\bin\Antlr3.Runtime.dll
+E:\company\Company1111\Company1111\bin\EntityFramework.dll
+E:\company\Company1111\Company1111\bin\EntityFramework.SqlServer.dll
+E:\company\Company1111\Company1111\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\company\Company1111\Company1111\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\company\Company1111\Company1111\bin\Microsoft.Web.Infrastructure.dll
+E:\company\Company1111\Company1111\bin\Newtonsoft.Json.dll
+E:\company\Company1111\Company1111\bin\System.Diagnostics.DiagnosticSource.dll
+E:\company\Company1111\Company1111\bin\System.Web.Helpers.dll
+E:\company\Company1111\Company1111\bin\System.Web.Mvc.dll
+E:\company\Company1111\Company1111\bin\System.Web.Optimization.dll
+E:\company\Company1111\Company1111\bin\System.Web.Razor.dll
+E:\company\Company1111\Company1111\bin\System.Web.WebPages.Deployment.dll
+E:\company\Company1111\Company1111\bin\System.Web.WebPages.dll
+E:\company\Company1111\Company1111\bin\System.Web.WebPages.Razor.dll
+E:\company\Company1111\Company1111\bin\WebGrease.dll
+E:\company\Company1111\Company1111\bin\EntityFramework.xml
+E:\company\Company1111\Company1111\bin\EntityFramework.SqlServer.xml
+E:\company\Company1111\Company1111\bin\System.Web.Helpers.xml
+E:\company\Company1111\Company1111\bin\System.Web.Mvc.xml
+E:\company\Company1111\Company1111\bin\System.Web.Optimization.xml
+E:\company\Company1111\Company1111\bin\System.Web.Razor.xml
+E:\company\Company1111\Company1111\bin\System.Web.WebPages.xml
+E:\company\Company1111\Company1111\bin\System.Web.WebPages.Deployment.xml
+E:\company\Company1111\Company1111\bin\System.Web.WebPages.Razor.xml
+E:\company\Company1111\Company1111\bin\Newtonsoft.Json.xml
+E:\company\Company1111\Company1111\bin\Antlr3.Runtime.pdb
+E:\company\Company1111\Company1111\bin\System.Diagnostics.DiagnosticSource.xml
+E:\company\Company1111\Company1111\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\company\Company1111\Company1111\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\company\Company1111\Company1111\obj\Debug\Company1111.csproj.CoreCompileInputs.cache
+E:\company\Company1111\Company1111\obj\Debug\Company1111.csproj.CopyComplete
+E:\company\Company1111\Company1111\obj\Debug\Company1111.dll
+E:\company\Company1111\Company1111\obj\Debug\Company1111.pdb
+E:\company\Company1111\Company1111\obj\Debug\Company1111.Migrations.Initial1.resources
+E:\company\Company1111\Company1111\obj\Debug\Company1111.csproj.GenerateResource.cache
+E:\company\Company1111\Company1111\obj\Debug\Company1111.Migrations.relationship.resources
+E:\company\Company1111\Company1111\obj\Debug\Company1111.Migrations.initial2.resources
+E:\company\Company1111\Company1111\obj\Debug\Company1111.Migrations.initial3.resources
+E:\company\Company1111\Company1111\obj\Debug\Company1111.Migrations.initial4.resources
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\Company1111.dll.config
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\Company1111.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\Company1111.pdb
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\csc.exe
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\csi.exe
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\EntityFramework.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\WebGrease.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\EntityFramework.xml
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\obj\Debug\Company1111.Migrations.Initial1.resources
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\obj\Debug\Company1111.Migrations.relationship.resources
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\obj\Debug\Company1111.Migrations.initial2.resources
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\obj\Debug\Company1111.Migrations.initial3.resources
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\obj\Debug\Company1111.Migrations.initial4.resources
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\obj\Debug\Company1111.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\obj\Debug\Company1111.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\obj\Debug\Company1111.csproj.CopyComplete
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\obj\Debug\Company1111.dll
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\obj\Debug\Company1111.pdb
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\obj\Debug\Company1111.Migrations.validationaddeduserclass.resources
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\obj\Debug\Company1111.Migrations.newlyaddedusertable.resources
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\obj\Debug\Company1111.Migrations.addedval1.resources
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\obj\Debug\Company1111.Migrations.userclassmodified.resources
+C:\Users\User\Desktop\New\Company1111\Company1111\Company1111\obj\Debug\Company1111.Migrations.Error.resources
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\EntityFramework.xml
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\Company1111.dll.config
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\Company1111.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\Company1111.pdb
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\csc.exe
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\csi.exe
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\EntityFramework.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\WebGrease.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\obj\Debug\Company1111.Migrations.Initial1.resources
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\obj\Debug\Company1111.Migrations.relationship.resources
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\obj\Debug\Company1111.Migrations.initial2.resources
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\obj\Debug\Company1111.Migrations.initial3.resources
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\obj\Debug\Company1111.Migrations.initial4.resources
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\obj\Debug\Company1111.Migrations.validationaddeduserclass.resources
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\obj\Debug\Company1111.Migrations.newlyaddedusertable.resources
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\obj\Debug\Company1111.Migrations.addedval1.resources
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\obj\Debug\Company1111.Migrations.userclassmodified.resources
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\obj\Debug\Company1111.Migrations.Error.resources
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\obj\Debug\Company1111.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\obj\Debug\Company1111.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\obj\Debug\Company1111.csproj.CopyComplete
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\obj\Debug\Company1111.dll
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\obj\Debug\Company1111.pdb
+C:\Users\User\Desktop\New folder (3)\bathm-proj\Company1111\Company1111\obj\Debug\Company1111.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\Company1111.dll.config
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\Company1111.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\Company1111.pdb
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\csc.exe
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\csi.exe
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\EntityFramework.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\WebGrease.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\EntityFramework.xml
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\obj\Debug\Company1111.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\obj\Debug\Company1111.Migrations.Initial1.resources
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\obj\Debug\Company1111.Migrations.relationship.resources
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\obj\Debug\Company1111.Migrations.initial2.resources
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\obj\Debug\Company1111.Migrations.initial3.resources
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\obj\Debug\Company1111.Migrations.initial4.resources
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\obj\Debug\Company1111.Migrations.validationaddeduserclass.resources
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\obj\Debug\Company1111.Migrations.newlyaddedusertable.resources
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\obj\Debug\Company1111.Migrations.addedval1.resources
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\obj\Debug\Company1111.Migrations.userclassmodified.resources
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\obj\Debug\Company1111.Migrations.Error.resources
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\obj\Debug\Company1111.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\obj\Debug\Company1111.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\obj\Debug\Company1111.csproj.CopyComplete
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\obj\Debug\Company1111.dll
+C:\Users\User\Desktop\New folder (5)\Registration-and-Login\Company1111\Company1111\obj\Debug\Company1111.pdb
